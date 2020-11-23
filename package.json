@@ -1,31 +1,32 @@
 {
   "name": "optimizilla-cli",
-  "version": "5.0.0",
+  "version": "7.0.0",
   "private": false,
   "bin": {
-    "optimizilla": "index.js"
+    "oz": "index.js"
   },
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dkunin/optimizilla-cli.git"
+    "url": "git://github.com/Ksedline/optimizilla-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/dkunin/optimizilla-cli/issues"
+    "url": "https://github.com/Ksedline/optimizilla-cli/issues"
   },
   "scripts": {},
-  "homepage": "https://github.com/dkunin/optimizilla-cli",
+  "homepage": "https://github.com/Ksedline/optimizilla-cli",
   "keywords": [
     "optimizilla",
     "cli",
     "images"
   ],
+  "type": "module",
   "license": "MIT",
   "description": "Script to utilize optimizilla and avoid the pesky ui",
   "dependencies": {
-    "easy-table": "1.1.0",
-    "log-update": "2.0.0",
-    "meow": "3.7.0",
-    "request": "2.87.0"
+    "easy-table": "1.1.1",
+    "log-update": "4.0.0",
+    "meow": "8.0.0",
+    "request": "2.88.2"
   }
 }

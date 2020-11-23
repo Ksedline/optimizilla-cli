@@ -5,13 +5,11 @@ Simple node script, used via cli - to upload and process images via [http://opti
 [![NPM](https://nodei.co/npm/optimizilla-cli.png?downloads=true)](https://nodei.co/npm/optimizilla-cli/)
 
 ## Install
-
     npm i optimizilla-cli -g
 
 ## Usage
 
-
-    optimizilla [FILENAME]
+    oz [FILENAME]
 
     Options
       --output, -o  Destination of the optimized file
@@ -21,23 +19,21 @@ Simple node script, used via cli - to upload and process images via [http://opti
     Examples
       $ optimizilla xpto.jpg --output ./ --replace
 
-## RoadMap
+## Features
 
-- [x] Multiple files upload
-- [x] Seperate into helpers
-- [ ] Better error checking
-- [x] Options
-- [x] Help text
-- [ ] Tests
+- Multiple files upload
+- Seperate into helpers
+- Options
+- Help text
 
 ## Contribute
 
 PRs accepted.
 
 ## Contributors
-
+- [Ksedline](https://github.com/Ksedline)
 - [t100n](https://github.com/t100n)
 
 ## License
 
-MIT © Dmitri Kunin
+MIT © Dmitri Kunin and sighed in a new way by Kirill Shekhovtsov
