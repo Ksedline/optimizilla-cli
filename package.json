@@ -1,6 +1,6 @@
 {
   "name": "oz-cli",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "private": false,
   "bin": {
     "oz": "index.js"
