@@ -1,5 +1,5 @@
 {
-  "name": "optimizilla-cli",
+  "name": "oz-cli",
   "version": "7.0.0",
   "private": false,
   "bin": {

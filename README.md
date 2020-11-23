@@ -5,7 +5,7 @@ Simple node script, used via cli - to upload and process images via [http://opti
 [![NPM](https://nodei.co/npm/optimizilla-cli.png?downloads=true)](https://nodei.co/npm/optimizilla-cli/)
 
 ## Install
-    npm i optimizilla-cli -g
+    npm i oz-cli -g
 
 ## Usage
 
@@ -17,7 +17,7 @@ Simple node script, used via cli - to upload and process images via [http://opti
       --dry, -d  Dry run, upload, optimize and print out links
 
     Examples
-      $ optimizilla xpto.jpg --output ./ --replace
+      $ oz xpto.jpg --output ./ --replace
 
 ## Features
 
