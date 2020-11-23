@@ -2,7 +2,7 @@
 
 Simple node script, used via cli - to upload and process images via [http://optimizilla.com/](http://optimizilla.com/)
 
-[![NPM](https://nodei.co/npm/optimizilla-cli.png?downloads=true)](https://nodei.co/npm/optimizilla-cli/)
+[![NPM](https://nodei.co/npm/oz-cli.png?downloads=true)](https://nodei.co/npm/oz-cli/)
 
 ## Install
     npm i oz-cli -g
